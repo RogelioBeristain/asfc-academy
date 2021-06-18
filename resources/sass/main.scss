@@ -1,0 +1,45 @@
+body {
+    padding-top: 202px;
+}
+
+@media (max-width: 575.98px){
+
+    body{
+        padding-top: 69px;
+    }
+}
+.bg-blue-dark {
+    background-color: $blue-dark !important;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+/*
+.navbar-nav-beta{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+*/
+
+.dropup, .dropright, .dropdown, .dropleft {
+    position: relative;
+    width: calc(100%/7);
+    font-size: large;
+    font-weight: bold;
+}

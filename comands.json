@@ -1,0 +1,9 @@
+{"console":{
+                "create-proyect":"composer create-project --prefer-dist laravel/laravel blog",
+                "run-server":"php artisan serve --host 192.168.0.7 --port 8000",
+                "install-ui":"composer require laravel/ui",
+                "generate-scaffold":"php artisan ui bootstrap --auth",
+                "generate-scaffold2":"php artisan ui vue --auth"    
+}
+
+}
