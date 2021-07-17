@@ -6544,7 +6544,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.card-img, .card-img-top {\n    border-top-left-radius: calc(1em - 1px);\n    border-top-right-radius: calc(1em - 1px);\n}\n.card{\n    border-radius: 1rem;\n}\n.navbar-dark .navbar-nav .nav-link {\n    font-size: large;\n    font-weight: bold;\n    color: #fff;\n}\n", ""]);
+exports.push([module.i, "\n.card-img, .card-img-top {\n    border-top-left-radius: calc(1em - 1px);\n    border-top-right-radius: calc(1em - 1px);\n}\n.card{\n    border-radius: 1rem;\n}\n.navbar-dark .navbar-nav .nav-link {\n    font-size: large;\n    font-weight: bold;\n    color: #aaa;\n}\n", ""]);
 
 // exports
 

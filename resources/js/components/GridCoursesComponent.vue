@@ -60,6 +60,6 @@ export default {
 .navbar-dark .navbar-nav .nav-link {
     font-size: large;
     font-weight: bold;
-    color: #fff;
+    color: #aaa;
 }
 </style>
