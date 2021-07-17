@@ -16,10 +16,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Running backend with artisan in terminal
 
 ``
+    composer install
     php artisan serve
 ``
 ### Vue JS [Frontend]
-
+node version v12.5.0
 version ^2.5.17
 - [Vue js](https://github.com/vuejs/vue/tree/2.6).
 
@@ -28,5 +29,6 @@ version ^2.5.17
 Running frontend with npm in terminal
 
 ``
+    npm install 
     npm run watch
 ``

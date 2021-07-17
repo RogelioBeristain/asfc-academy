@@ -11,7 +11,7 @@
                                 </a>
                                 <div class="card-body">
                                     <a :href="'./unity/'+course.slug">
-                                        <h5 class="card-title"> <strong>  {{course.name}} </strong>  </h5>
+                                        <h5 class="card-title"> <strong>  {{course.name}} {{saludo}}</strong>  </h5>
                                     </a>
                                     <p class="card-text">{{course.description}}</p>
                                 </div>
@@ -30,11 +30,13 @@ export default {
     data() {
     return {
         courses: [
-            {"name":"Kinder","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/violin/branches/course/thumbls/c1.png","slug":"kinder" },
+            {"name":"Kinder","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/violin/branches/course/thumbls/c1.png","slug":"kinder","level":"0" },
             {"name":"Junior","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/violin/branches/course/thumbls/c2.png","slug":"junior" },
             {"name":"First Performace","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/violin/branches/course/thumbls/c3.png","slug":"first-performace" },
             {"name":"High Performace","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/violin/branches/course/thumbls/c4.png","slug":"high-performace" }
         ],
+        saludo= 'Hola'
+
     };
 },
     mounted() {

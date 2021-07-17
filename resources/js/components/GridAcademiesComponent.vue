@@ -22,6 +22,7 @@
             </div>
         </div>
     </div>
+
 </template>
 
 <script>
@@ -37,6 +38,8 @@ export default {
                 {"name":"Piano","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a5.jpg","slug":"piano" },
                 {"name":"Soccer","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a6.jpg","slug":"soccer" },
                 {"name":"Maths","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a7.jpg","slug":"maths" },
+                {"name":"Dance","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a8.jpg","slug":"dance" },
+                {"name":"Dance","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a8.jpg","slug":"dance" },
                 {"name":"Dance","description":"En esta academia podras aprender a ...", "url_thumbl":"/assets/academias/thumbls/a8.jpg","slug":"dance" },
             ],
         };

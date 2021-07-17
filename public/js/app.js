@@ -1934,6 +1934,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ["data"],
   data: function data() {
@@ -1978,6 +1979,16 @@ __webpack_require__.r(__webpack_exports__);
         "description": "En esta academia podras aprender a ...",
         "url_thumbl": "/assets/academias/thumbls/a8.jpg",
         "slug": "dance"
+      }, {
+        "name": "Dance",
+        "description": "En esta academia podras aprender a ...",
+        "url_thumbl": "/assets/academias/thumbls/a8.jpg",
+        "slug": "dance"
+      }, {
+        "name": "Dance",
+        "description": "En esta academia podras aprender a ...",
+        "url_thumbl": "/assets/academias/thumbls/a8.jpg",
+        "slug": "dance"
       }]
     };
   },
@@ -1997,7 +2008,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
 //
 //
 //
@@ -2057,68 +2067,10 @@ __webpack_require__.r(__webpack_exports__);
 /*!*******************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/GridCoursesComponent.vue?vue&type=script&lang=js& ***!
   \*******************************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-/* harmony default export */ __webpack_exports__["default"] = ({
-  props: ["data"],
-  data: function data() {
-    return {
-      courses: [{
-        "name": "Kinder",
-        "description": "En esta academia podras aprender a ...",
-        "url_thumbl": "/assets/academias/violin/branches/course/thumbls/c1.png",
-        "slug": "kinder"
-      }, {
-        "name": "Junior",
-        "description": "En esta academia podras aprender a ...",
-        "url_thumbl": "/assets/academias/violin/branches/course/thumbls/c2.png",
-        "slug": "junior"
-      }, {
-        "name": "First Performace",
-        "description": "En esta academia podras aprender a ...",
-        "url_thumbl": "/assets/academias/violin/branches/course/thumbls/c3.png",
-        "slug": "first-performace"
-      }, {
-        "name": "High Performace",
-        "description": "En esta academia podras aprender a ...",
-        "url_thumbl": "/assets/academias/violin/branches/course/thumbls/c4.png",
-        "slug": "high-performace"
-      }]
-    };
-  },
-  mounted: function mounted() {
-    console.log("Component mounted.");
-  }
-});
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\resources\\js\\components\\GridCoursesComponent.vue: Unexpected token (38:14)\n\n\u001b[0m \u001b[90m 36 | \u001b[39m            {\u001b[32m\"name\"\u001b[39m\u001b[33m:\u001b[39m\u001b[32m\"High Performace\"\u001b[39m\u001b[33m,\u001b[39m\u001b[32m\"description\"\u001b[39m\u001b[33m:\u001b[39m\u001b[32m\"En esta academia podras aprender a ...\"\u001b[39m\u001b[33m,\u001b[39m \u001b[32m\"url_thumbl\"\u001b[39m\u001b[33m:\u001b[39m\u001b[32m\"/assets/academias/violin/branches/course/thumbls/c4.png\"\u001b[39m\u001b[33m,\u001b[39m\u001b[32m\"slug\"\u001b[39m\u001b[33m:\u001b[39m\u001b[32m\"high-performace\"\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 37 | \u001b[39m        ]\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 38 | \u001b[39m        saludo\u001b[33m=\u001b[39m \u001b[32m'Hola'\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    | \u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 39 | \u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 40 | \u001b[39m    }\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 41 | \u001b[39m}\u001b[33m,\u001b[39m\u001b[0m\n    at Parser._raise (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:764:17)\n    at Parser.raiseWithData (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:757:17)\n    at Parser.raise (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:751:17)\n    at Parser.unexpected (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:8927:16)\n    at Parser.checkExpressionErrors (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9025:12)\n    at Parser.parseMaybeAssign (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9592:12)\n    at Parser.parseExpression (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9517:23)\n    at Parser.parseReturnStatement (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11700:28)\n    at Parser.parseStatementContent (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11379:21)\n    at Parser.parseStatement (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11331:17)\n    at Parser.parseBlockOrModuleBlockBody (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11913:25)\n    at Parser.parseBlockBody (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11899:10)\n    at Parser.parseBlock (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11883:10)\n    at Parser.parseFunctionBody (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10901:24)\n    at Parser.parseFunctionBodyAndFinish (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10884:10)\n    at Parser.parseMethod (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10827:10)\n    at Parser.parseObjectMethod (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10752:19)\n    at Parser.parseObjPropValue (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10785:23)\n    at Parser.parsePropertyDefinition (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10716:10)\n    at Parser.parseObjectLike (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10609:25)\n    at Parser.parseExprAtom (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:10143:23)\n    at Parser.parseExprSubscripts (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9789:23)\n    at Parser.parseUpdate (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9769:21)\n    at Parser.parseMaybeUnary (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9758:17)\n    at Parser.parseExprOps (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9628:23)\n    at Parser.parseMaybeConditional (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9602:23)\n    at Parser.parseMaybeAssign (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:9565:21)\n    at Parser.parseExportDefaultExpression (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:12536:24)\n    at Parser.parseExport (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:12438:31)\n    at Parser.parseStatementContent (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11437:27)\n    at Parser.parseStatement (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11331:17)\n    at Parser.parseBlockOrModuleBlockBody (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11913:25)\n    at Parser.parseBlockBody (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11899:10)\n    at Parser.parseTopLevel (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:11262:10)\n    at Parser.parse (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:12967:10)\n    at parse (C:\\Users\\Rogel\\Documents\\Programming\\Projects\\ASFC\\asfc-academy\\node_modules\\@babel\\parser\\lib\\index.js:13020:38)");
 
 /***/ }),
 
@@ -38589,7 +38541,14 @@ var render = function() {
                   _c("div", { staticClass: "card-body" }, [
                     _c("a", { attrs: { href: "./unity/" + course.slug } }, [
                       _c("h5", { staticClass: "card-title" }, [
-                        _c("strong", [_vm._v("  " + _vm._s(course.name) + " ")])
+                        _c("strong", [
+                          _vm._v(
+                            "  " +
+                              _vm._s(course.name) +
+                              " " +
+                              _vm._s(_vm.saludo)
+                          )
+                        ])
                       ])
                     ]),
                     _vm._v(" "),
@@ -51039,14 +50998,15 @@ __webpack_require__.r(__webpack_exports__);
 /*!**********************************************************!*\
   !*** ./resources/js/components/GridCoursesComponent.vue ***!
   \**********************************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _GridCoursesComponent_vue_vue_type_template_id_6295fef6___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./GridCoursesComponent.vue?vue&type=template&id=6295fef6& */ "./resources/js/components/GridCoursesComponent.vue?vue&type=template&id=6295fef6&");
 /* harmony import */ var _GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./GridCoursesComponent.vue?vue&type=script&lang=js& */ "./resources/js/components/GridCoursesComponent.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _GridCoursesComponent_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./GridCoursesComponent.vue?vue&type=style&index=0&lang=css& */ "./resources/js/components/GridCoursesComponent.vue?vue&type=style&index=0&lang=css&");
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+/* harmony import */ var _GridCoursesComponent_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./GridCoursesComponent.vue?vue&type=style&index=0&lang=css& */ "./resources/js/components/GridCoursesComponent.vue?vue&type=style&index=0&lang=css&");
 /* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
 
 
@@ -51078,13 +51038,15 @@ component.options.__file = "resources/js/components/GridCoursesComponent.vue"
 /*!***********************************************************************************!*\
   !*** ./resources/js/components/GridCoursesComponent.vue?vue&type=script&lang=js& ***!
   \***********************************************************************************/
-/*! exports provided: default */
+/*! no static exports found */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./GridCoursesComponent.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/GridCoursesComponent.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_GridCoursesComponent_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); 
 
 /***/ }),
 

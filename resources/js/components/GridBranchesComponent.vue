@@ -2,7 +2,6 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12">
-            <!--Componet Card-->
             <div class="row row-cols-1 row-cols-md-4">
                 <div  v-for="(branch,index) in branches" :key="index">
                     <div class="col mb-4">
